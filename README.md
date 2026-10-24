@@ -373,6 +373,32 @@ Deliberately out of scope:
 If you deploy this against real staff, tell them it exists and what it measures. A monitoring tool nobody has been told about fails for reasons that have nothing to do with its precision.
 
 ---
+---
+
+# 👨‍💻 Author
+
+### Aadhya Rohatgi
+
+B.Tech Computer Science (Data Science), Manipal University Jaipur
+
+* GitHub: [@Adro05](https://github.com/Adro05)
+* LinkedIn: [YOUR FULL LINKEDIN URL]
+* Email: aadhyarohatgi13@gmail.com
+
+Designed and developed as a defence-only anomaly detection project for
+staff-initiated financial actions, covering the detection pipeline,
+explainability layer, hash-chained audit trail, REST API, dashboard and
+evaluation.
+
+---
+
+# 🙏 Acknowledgments
+
+* [scikit-learn](https://scikit-learn.org/) for the Isolation Forest implementation
+* [FastAPI](https://fastapi.tiangolo.com/) and [Uvicorn](https://www.uvicorn.org/) for the API layer
+* [NumPy](https://numpy.org/) and [PyYAML](https://pyyaml.org/) for numerical work and configuration
+* [pytest](https://pytest.org/) for the test suite
+* Developed with AI assistance from [Claude](https://www.anthropic.com/claude) (Anthropic) for code generation and review. System design decisions, testing and evaluation were reviewed and validated by the author.
 
 ## 📄 License
 
