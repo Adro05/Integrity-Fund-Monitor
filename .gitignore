@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+data/*.db
+data/*.csv
+data/*.json
+!data/.gitkeep
+.env
+.pytest_cache/
+
+# Generated data and package metadata
+data/**/*.db
+data/**/*.csv
+data/**/*.json
+*.egg-info/
+
+# Generated files directly inside data/
+data/*.db
+data/*.csv
+data/*.json
